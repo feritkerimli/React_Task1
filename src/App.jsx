@@ -11,10 +11,10 @@ export default function App() {
       <Header/>
       
       <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/about' element={<About/>}/>
-        <Route path='/workExamples' element={<WorkExamples/>}/>
-        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/React_Task1/' element={<Home/>}/>
+        <Route path='/React_Task1/about' element={<About/>}/>
+        <Route path='/React_Task1/workExamples' element={<WorkExamples/>}/>
+        <Route path='/React_Task1/contact' element={<Contact/>}/>
       </Routes>
       
     </div>  

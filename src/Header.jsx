@@ -6,16 +6,16 @@ export default function Header() {
         <img src="./vite.svg" alt="Logo" />
       </div>
         <div className="nav">
-          <NavLink  to="/">
+          <NavLink  to="/React_Task1/">
             Home
           </NavLink>
-          <NavLink  to="/about">
+          <NavLink  to="/React_Task1/about">
             About
           </NavLink>
-          <NavLink  to="/workExamples">
+          <NavLink  to="/React_Task1/workExamples">
             Work examples
           </NavLink>
-          <NavLink  to="/contact">
+          <NavLink  to="/React_Task1/contact">
             Contact
           </NavLink>
         </div>
